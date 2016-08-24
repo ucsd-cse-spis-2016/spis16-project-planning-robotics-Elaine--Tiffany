@@ -1,5 +1,5 @@
-# spis16-project-planning-robotics-Elaine--Tiffany
-Robotics Lab, Elaine and Tiffany, Mentor: David Le
+# spis16-project-planning-robotics-Elaine-Tiffany
+Elaine H. and Tiffany T., Robotics Lab, Mentor: David Le
 
 Idea #1: 
 Design a robot that maneuvers around a certain color obstacle and hits a different color obstacle out of the way while going through a maze.
