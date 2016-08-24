@@ -4,7 +4,7 @@ Robotics Lab, Elaine and Tiffany, Mentor: David Le
 Idea #1: 
 Design a robot that maneuvers around a certain color obstacle and hits a different color obstacle out of the way while going through a maze.
 
-Idea #2:
+******Idea #2:
 Design a robot that comes when called and does cool tricks.
 
 Idea #3:
@@ -14,8 +14,8 @@ Idea #4:
 build an igloo using temperature sensors to figure out where the ice is
 
 
-have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing), find objects, build something using objects, come to us when called.
-
+****** (this or idea number 2 for now) have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing or use led colors to lead the robot through), find objects, build something using objects, come to us when called or find an object and push towards a specific spot.
+More advanced - use seven segment display to show how many objects still need to be found
 
 things you can do with a robot:
 obstacle detection
