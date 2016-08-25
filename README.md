@@ -11,9 +11,6 @@ Idea #3:
 Find an object of specific color. (scavenger hunt)
 
 Idea #4:
-build an igloo using temperature sensors to figure out where the ice is
-
-
 ****** (this or idea number 2 for now) have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing or use led colors to lead the robot through), find objects, build something using objects, come to us when called (when it detects motion from us) or find an object and push towards a specific spot.
 More advanced - use seven segment display to show how many objects still need to be found
 
