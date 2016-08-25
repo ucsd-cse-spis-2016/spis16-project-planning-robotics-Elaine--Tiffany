@@ -14,6 +14,9 @@ Idea #4:
 ****** (this or idea number 2 for now) have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing or use led colors to lead the robot through), find objects, build something using objects, come to us when called (when it detects motion from us) or find an object and push towards a specific spot.
 More advanced - use seven segment display to show how many objects still need to be found
 
+first stage: get the car to turn when it gets too close to an obstacle
+put ultrasonic sensor on servo
+
 things you can do with a robot:
 obstacle detection
 drawing
