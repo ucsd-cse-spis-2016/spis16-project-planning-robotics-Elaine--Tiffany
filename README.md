@@ -3,7 +3,7 @@
 Elaine H. and Tiffany T., Robotics Lab, Mentor: David Le
 
 #Brief Description
-We are planning to create an obstacle course that the robot has to navigate through using an ultrasonic sensor placed on a servo. If we have time and it is available, we will use a camera to detect color and have the robot do different things to obstacles of different colors. Otherwise, we will add led lights and have certain colors light up depending on how far the robot is from the end of the course.
+We are planning to create an obstacle course that the robot has to navigate through using an ultrasonic sensor placed on a servo. If we have time and it is available, we will use a camera to detect color and have the robot do different things to obstacles of different colors. Otherwise, we will add led lights and have certain colors light up depending on how far the robot is from the end of the course (or just have different colors light up at random times if we can't configure this).
 
 Idea #4:
 ****** (this or idea number 2 for now) have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing or use led colors to lead the robot through), find objects, build something using objects, come to us when called (when it detects motion from us) or find an object and push towards a specific spot.
