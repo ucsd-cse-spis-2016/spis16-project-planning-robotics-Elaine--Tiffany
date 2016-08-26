@@ -6,9 +6,11 @@ Elaine H. and Tiffany T., Robotics Lab, Mentor: David Le
 We are planning to create an obstacle course that the robot has to navigate through using an ultrasonic sensor placed on a servo. If we have time and it is available, we will use a camera to detect color and have the robot do different things to obstacles of different colors. Otherwise, we will add led lights and have certain colors light up depending on how far the robot is from the end of the course (or just have different colors light up at random times if we can't configure this). We will also try to have the robot pick up an object at the end of the course and push it back through the course to the start or we will have the robot circle around the object at the end of the course. Then, we plan to place multiple objects in the obstacle course and have a seven segment display show the number of objects the robot has found.
 
 #Stages
-first stage: get the robot to turn when it gets too close to an obstacle
-second stage: If we get the camera to work, have the robot do different things in front of different colored objects. Otherwise, set up a few obstacles and test different types of obstacle avoidance.
-third stage:
+* First stage: get the robot to turn when it gets too close to an obstacle.
+* Second stage: If we get the camera to work, have the robot do different things in front of different colored objects. Otherwise, set up a few obstacles and test different types of obstacle avoidance.
+* Third stage: Add the led lights - have light colors change after a certain rule e.g. after every turn.
+* Fourth stage: Either have the robot pick up and object or circle around an object at the end of the course.
+* Fifth stage: (If time - more advanced) place multiple objects for the robot to find in the obstacle course and have a seven segment display show the number of objects the robot has found.
 
 
 ---------------------
