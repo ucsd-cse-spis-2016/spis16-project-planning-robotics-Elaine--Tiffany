@@ -14,7 +14,8 @@ We are planning to create an obstacle course that the robot has to navigate thro
 
 
 ---------------------
-things you can do with a robot:
+Pre writeup ideas:
+Things you can do with a robot -
 obstacle detection
 drawing
 maze
