@@ -12,7 +12,8 @@ We are planning to create an obstacle course that the robot has to navigate thro
 * Fourth stage: Either have the robot pick up and object or circle around an object at the end of the course.
 * Fifth stage: (If time - more advanced) place multiple objects for the robot to find in the obstacle course and have a seven segment display show the number of objects the robot has found.
 
-
+#Where we are as of 8/29/16
+We wrote code for a robot that dodges obstacles by turning right, detecting a certain distance in respect to a threshold, then turning left (obstacle avoidance). We did this through a set of 4 states (state0 - state3). Tomorrow we plan on adding additional states that allow the robot to go around (or maneuveur) obstacles. 
 ---------------------
 Pre writeup ideas:
 
@@ -36,3 +37,4 @@ Idea #3
 Idea #4
 * Have the robot find its way through an obstacle course (robot finds its way through light sensors seeing all the leds flashing or use led colors to lead the robot through), find objects, build something using objects, come to us when called (when it detects motion from us) or find an object and push towards a specific spot.
 * More advanced - use seven segment display to show how many objects still need to be found.
+
