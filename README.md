@@ -13,7 +13,7 @@ We are planning to create an obstacle course that the robot has to navigate thro
 * Fifth stage: (If time - more advanced) place multiple objects for the robot to find in the obstacle course and have a seven segment display show the number of objects the robot has found.
 
 #Where we are as of 8/29/16
-We wrote code for a robot that dodges obstacles by turning right, detecting a certain distance in respect to a threshold, then turning left (obstacle avoidance). We did this through a set of 4 states (state0 - state3). Tomorrow we plan on adding additional states that allow the robot to go around (or maneuveur) obstacles. 
+We wrote code for a robot that dodges obstacles by turning right, detecting a certain distance in respect to a threshold, then turning left (obstacle avoidance). We did this through a set of 4 states (state0 - state3), however the current code is not working as we expect it to. Tomorrow we plan on fixing this problem and adding additional states that allow the robot to go around (or maneuveur) obstacles. 
 ---------------------
 Pre writeup ideas:
 
